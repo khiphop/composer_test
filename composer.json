@@ -1,0 +1,21 @@
+{
+    "name": "baison/log",
+    "description": "log class",
+    "type": "l",
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "license": "Nginx",
+    "authors": [
+        {
+            "name": "zhangbb",
+            "email": "854641898@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Siam\\": "src/siam"
+        }
+    }
+}
